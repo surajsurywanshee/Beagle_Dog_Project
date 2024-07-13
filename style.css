@@ -1,0 +1,40 @@
+
+body {
+    border: 10px;
+    background-image: url(beagle-hound-dog.webp);
+
+    .container{
+        max-width: 900px;
+        margin: 10px auto;
+        padding: 10px;
+        background-color: aqua;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    .first-section{
+
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20pX;
+        border: 2px solid black;
+        margin-left: 5px;
+        margin-right: 5px;
+        border-radius: 5px;
+    }
+
+    .second-section{
+
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20pX;
+
+    }
+
+    .third-section{
+
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20pX;
+    }
+
+
+
+}
